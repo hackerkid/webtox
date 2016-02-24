@@ -4,5 +4,4 @@
 
 WebTox wants to bring Tox to the browser. Building web applications using Tox would be as simple as requiring Tox.js .
 
-##Blue Print
-
+##How it works?
