@@ -6,7 +6,7 @@ WebTox wants to bring Tox to the browser. The project wants to make building web
 
 ##RoadMap
 
-![WebTox](images/WebTox.png)
+![WebTox](images/webtox.png)
 
 Since Browsers don't support UDP due to security reasons WebTox would be implemented with the help of WebRTC. Initially there would be only WebTox clients. They communicate with each other with the help of WebRTC. Since the normal Tox clients don't have WebRTC support there is no way of WebTox clients to communicate with the normal Tox clients. 
 
